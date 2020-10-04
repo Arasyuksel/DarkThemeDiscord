@@ -1,0 +1,15 @@
+//META{"name":"DiscordDarkTheme","description":"Dark Theme For Discord","author":"Jeadness","version":"1.0"}*//
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+@import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+:root {
+--themeColor1: #ff0000;
+--themeColor2: #000000;
+--customFont: 'Poppins', sans-serif;
+--homeImage: url('https://i.imgur.com/oOKwCVJ.png');
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://i.imgur.com/zxXBhw1.jpg');
+--backgroundBlur: 100px;
+--backgroundOpacity: 0.65;
+}
